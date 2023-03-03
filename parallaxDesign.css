@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image1{
+    background-image: url("bg1.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.headinf1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Edu QLD Beginner', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-size: 90px;
+color: white;
+
+}
+.pragraph-container{
+    text-align: center;
+}
+.paragraph{
+width: 100%;
+height: 190px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding-left: 60px;
+padding-right: 60px;
+}
+.image2{
+    background-image: url("bg2.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+pragraph2-container{
+    text-align: center;
+}
+.heading2{
+    font-size: 80px;
+    color: white;
+}
+.paragraph2{
+    width: 100%;
+height: 190px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding-left: 60px;
+padding-right: 60px;
+background-color: gray;
+color: white;
+}
+.image3{
+    background-image: url("bg3.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
